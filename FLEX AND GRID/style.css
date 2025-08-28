@@ -1,0 +1,34 @@
+.container{
+    display: grid;
+    border: 1px solid mintcream;
+    grid-template-columns: 200px 300px 400px ;
+    grid-template-rows: 200px 500px 200px;
+   
+}
+.child1{
+    border: 1px dotted black;
+    height: 300px;
+    width: 300px;
+  background-color: rgba(224, 159, 159, 0.954);
+
+}
+.child2{
+   border: 1px dotted rgb(11, 11, 59);
+    height: 300px;
+    width: 300px;
+    background-color: bisque;
+}
+    
+.child3{
+       border: 1px dotted rgb(241, 110, 202);
+    height: 300px;
+    width: 300px;
+    background-color: rgb(186, 196, 77);
+
+}
+.child4{
+   border: 1px dotted rgb(198, 132, 132);
+    height: 300px;
+    width: 300px;
+    background-color: rgb(223, 165, 222);
+}
