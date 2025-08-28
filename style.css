@@ -1,0 +1,14 @@
+/* 
+div ~ p{
+    background-color: aqua;
+    color: black;
+} */ a
+
+p:nth-child(2){
+    background-color: black;
+    color:white;
+}
+div p:nth-of-type(1){
+    background-color: aquamarine;
+    font-size: larger;
+}
